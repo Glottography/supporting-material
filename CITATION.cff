@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "Supporting Material for the article 'Glottography: an open-source geolinguistic data platform for mapping the world’s languages'"
+version: "v1.0.0"
+authors:
+  - family-names: Ranacher
+    given-names: Peter
+  - family-names: Forkel
+    given-names: Robert
+  - family-names: Efrat-Kowalsky
+    given-names: Nour
+  - family-names: Urban
+    given-names: Matthias
+  - family-names: Hehli
+    given-names: Antonia
+  - family-names: Franz
+    given-names: Micha
+  - family-names: Biland
+    given-names: Gregory
+  - family-names: Kreienbühl
+    given-names: Aaron
+  - family-names: Hermida Rodríguez
+    given-names: Alba
+  - family-names: Azevedo
+    given-names: Matheus C.B.C.
+  - family-names: Giebler
+    given-names: James
+  - family-names: Takahashi
+    given-names: Takuya
+  - family-names: Neureiter
+    given-names: Nico
+  - family-names: van Gijn
+    given-names: Rik
+  - family-names: Roose
+    given-names: Meeli
+  - family-names: Vesakoski
+    given-names: Outi
+  - family-names: Weibel
+    given-names: Robert
+  - family-names: Kaiping
+    given-names: Gereon
+  - family-names: Norder
+    given-names: Sietze
+date-released: 2026-01-19
+url: "https://github.com/Glottography/supporting-material"
