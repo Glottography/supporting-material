@@ -1,6 +1,6 @@
-# Glottography: Supporting Materials
+# Glottography: Supporting Material
 
-Supporting materials for the publication "Glottography: an open-source geolinguistic data platform for mapping the world’s languages," including a script to reproduce the analyses. The script downloads the following data from online repositories:
+Supporting material for the publication "Glottography: an open-source geolinguistic data platform for mapping the world’s languages," including a script to reproduce the analyses. The script downloads the following data from online repositories:
 
 - **Glottography:** all currently available datasets containing language polygons.  
 - **Glottolog:** all languages with point coordinates and language families, including all known members classified as languages.  
